@@ -63,7 +63,7 @@ span{
  * animation focus-in-contract-bck
  * ----------------------------------------
  */
- @-webkit-keyframes focus-in-contract-bck {
+ /* @-webkit-keyframes focus-in-contract-bck {
     0% {
       letter-spacing: 1em;
       -webkit-transform: translateZ(300px);
@@ -79,7 +79,7 @@ span{
               filter: blur(0);
       opacity: 1;
     }
-  }
+  } */
   @keyframes focus-in-contract-bck {
     0% {
       letter-spacing: 1em;
