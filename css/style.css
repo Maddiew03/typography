@@ -49,6 +49,10 @@ body{
 span{
     color: var(--texthighlight);
 }
+p{
+  color: var(--texthighlight);
+  font-size: 1.5vw; ;
+}
 /* 
 .focus-in-contract-bck {
 	-webkit-animation: focus-in-contract-bck 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
@@ -204,7 +208,7 @@ span{
   
     -webkit-animation-duration: 2s;
     -webkit-animation-fill-mode: both;
-    -webkit-animation-delay: 3s;
+    -webkit-animation-delay: 1.5s;
     -webkit-animation-timing-function: ease-in-out;
    
   
